@@ -106,6 +106,6 @@ if __name__ == '__main__':
     ret = request_sail_ticket(request_param={
         "startSite": "SK",  # 蛇口港
         "endSite": "HKA",  # 香港机场
-        "toDate": "2021-08-16"  # 乘船日期
+        "toDate": "2022-09-08"  # 乘船日期
     })
     print(ret)
